@@ -12,15 +12,15 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libcodec2_soft_ac4dec \
     libcodec2_soft_ddpdec \
-    libcodec2_soft_dolby \
     libcodec2_store_dolby \
     libdapparamstorage \
     libdeccfg \
     libdlbdsservice \
     libdlbpreg \
+    libmisoundsa \
     libspatializerparamstorage \
     libdlbvol \
-    libswdap \
+    libhwdap \
     libswgamedap \
     libswspatializer \
     libswvqe \
